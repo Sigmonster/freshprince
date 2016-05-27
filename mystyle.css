@@ -1,0 +1,24 @@
+h1 {
+	color: red;
+}
+
+body {
+	background: grey;
+}
+p.nav{
+	background-color: #E95C0E;
+}
+p {
+	background: orange;
+	font-size: 20px;
+	text-align: center;
+}
+
+img.pcimg{
+	text-align: center;
+}
+div.pcmasterraceimg {
+	content:url(https://ec0c5a7f741a6f3bff65-dd07187202f57fa404a8f047da2bcff5.ssl.cf1.rackcdn.com/images/4rdOcQasKart.878x0.Z-Z96KYq.jpg);
+	text-align: center;
+}
+
